@@ -1,0 +1,3 @@
+# Kunci dan data lokal (dibuat otomatis saat aplikasi dijalankan)
+keys/*
+!keys/.htaccess
